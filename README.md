@@ -1,4 +1,4 @@
-# Spark2025 - Lab Safety Compliance Smart Contract
+# Lab Safety Compliance Smart Contract
 
 ## Description
 This Move-based smart contract, built under the package **Spark2025**, is designed to ensure **Lab Safety Compliance** in decentralized environments.  

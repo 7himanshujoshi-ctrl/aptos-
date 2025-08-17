@@ -1,0 +1,17 @@
+[package]
+name = "Spark2025"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x3bdc4a74a0b4d25431fe119dd45c884458e4ad15217dba0d6d47301829b1743c'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
++
